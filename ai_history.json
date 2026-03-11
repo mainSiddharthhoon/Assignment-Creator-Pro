@@ -1,0 +1,70 @@
+{
+    "20260302_001113": {
+        "title": "hello sir",
+        "created_at": "2026-03-02T00:11:13.589324",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hello sir",
+                "timestamp": "2026-03-02T00:11:13.590854"
+            },
+            {
+                "role": "assistant",
+                "content": "I received your message: \"hello sir\"\n\nPhase 2 of the AI Assistant integration is successful! I am currently running in mock mode. Next, we will connect to LM Studio.",
+                "timestamp": "2026-03-02T00:11:14.096115"
+            }
+        ]
+    },
+    "20260302_001139": {
+        "title": "how to center a div using flexbox ?",
+        "created_at": "2026-03-02T00:11:39.108592",
+        "messages": [
+            {
+                "role": "user",
+                "content": "how to center a div using flexbox ?",
+                "timestamp": "2026-03-02T00:11:39.111459"
+            },
+            {
+                "role": "assistant",
+                "content": "I received your message: \"how to center a div using flexbox ?\"\n\nPhase 2 of the AI Assistant integration is successful! I am currently running in mock mode. Next, we will connect to LM Studio.",
+                "timestamp": "2026-03-02T00:11:39.625623"
+            }
+        ]
+    },
+    "20260302_003336": {
+        "title": "hello sir",
+        "created_at": "2026-03-02T00:33:36.584307",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hello sir",
+                "timestamp": "2026-03-02T00:33:36.586262"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello there! How can I help you today? \ud83d\ude0a \n\nDo you have a question, need some information, or just want to chat? Let me know what's on your mind.",
+                "timestamp": "2026-03-02T00:33:49.051579"
+            },
+            {
+                "role": "user",
+                "content": "tell me what is debrougli wave length",
+                "timestamp": "2026-03-02T00:34:15.356441"
+            },
+            {
+                "role": "user",
+                "content": "hello are you there ? can you tell me what is de brougly wave length",
+                "timestamp": "2026-03-02T00:36:04.597334"
+            },
+            {
+                "role": "user",
+                "content": "hello are you there ? can you tell me what is de brougly wave length",
+                "timestamp": "2026-03-02T00:43:33.379951"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, I\u2019m here! It seems like you're asking about the de Broglie wavelength. Let's break it down:\n\n**What is the de Broglie Wavelength?**\n\nThe de Broglie wavelength (\u03bb) is a concept introduced by physicist Louis de Broglie in 1924 as part of his explanation for wave-particle duality \u2013 the idea that particles like electrons can behave like waves, and vice versa.\n\n**Here\u2019s the formula:**\n\n\u03bb = h / p\n\nWhere:\n\n*   **\u03bb (lambda)** is the de Broglie wavelength\n*   **h** is Planck's constant (approximately 6.626 x 10<sup>-34</sup> Joule-seconds) \u2013 a fundamental constant in quantum mechanics.\n*   **p** is the momentum of the particle (mass * velocity, or more precisely, p = mv)\n\n**What does it mean?**\n\nThe formula tells us that every particle with mass has an associated wavelength.  Even though we usually think of things like electrons as particles, they also have wave-like properties. The longer a particle's wavelength, the more likely it is to exhibit wave behavior (like diffraction and interference). \n\n**Key Points:**\n\n*   **Smaller Particles = Shorter Wavelengths:** For macroscopic objects like baseballs or cars, the momentum is huge, and their de Broglie wavelengths are incredibly tiny \u2013 essentially zero.  That\u2019s why we don't observe these wave-like properties in everyday objects.\n*   **Electrons & Smaller Particles:** For electrons, photons (light particles), and other subatomic particles, the wavelength becomes significant and measurable. This is what allows phenomena like electron diffraction to be observed.\n\n---\n\nDo you want me to:\n\n*   Explain it with an example?\n*   Go into more detail about wave-particle duality?\n*   Answer a specific question you have about the de Broglie wavelength?",
+                "timestamp": "2026-03-02T00:45:40.569529"
+            }
+        ]
+    }
+}

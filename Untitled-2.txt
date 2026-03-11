@@ -1,0 +1,2 @@
+
+**Next Step**: We can now replace the mock logic with actual API calls to your LM Studio local server.
